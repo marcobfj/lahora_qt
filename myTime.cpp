@@ -6,3 +6,5 @@ void MyTime::setTime(){
 
 	printf("%d : %d : %d \n", time->tm_hour, time->tm_min, time->tm_sec );
 }
+
+//Agregamos algo y hacemos commit

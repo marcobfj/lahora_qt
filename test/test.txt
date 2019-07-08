@@ -1,1 +1,2 @@
 Esto es un cambio que se hizo desde el repositorio original.
+Esto es un segundo cambio hecho desde el repositorio original.

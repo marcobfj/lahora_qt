@@ -14,7 +14,7 @@ int main(int argv, char  **args)
 	QObject::connect(timer, &QTimer::timeout, hora, &MyTime::setTime);
 	timer->start(1000);
 
-	printf("Hola esto esta en el main""\n", );
+	printf("Hola esto esta en el main, test para gregar en github""\n", );
 
 	return app.exec();
 }
